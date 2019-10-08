@@ -1,0 +1,5 @@
+radio=float(input("ingrese el radio:"))
+area=(3.14*((radio)**2))
+perimetro=(2*3.14*radio)
+print("la area es:%.2f" %(area))
+print("el perimetro es:%.2f" %(perimetro))

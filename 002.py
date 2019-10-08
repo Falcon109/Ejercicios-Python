@@ -1,0 +1,5 @@
+lado=int(input("ingrese el lado del cuadrado"))
+perimetro=(lado*4)
+area=(lado**2)
+print(el perimetro es:", perimetro)
+print(la area es:", area)
