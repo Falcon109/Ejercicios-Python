@@ -1,0 +1,6 @@
+binario=open("TwT.bin","bw")
+binario.write(b"probando el binario, esto se pondra interesante")
+binario.close()
+binario=open("TwT.bin","br")
+print(binario.read())
+binario.close()
